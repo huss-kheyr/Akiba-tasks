@@ -1,0 +1,8 @@
+print("Student Information")
+full_name = input("Full name: ")
+age = input("Age: ")
+city = input("City: ")
+university = input("University: ")
+department = input("Department: ")
+language = input("Favorite programming language: ")
+goal = input("One programming goal: ")
