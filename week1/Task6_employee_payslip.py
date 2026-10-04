@@ -1,3 +1,4 @@
+
 employee_name = input("Employee name: ")
 basic_salary = float(input("Basic salary: "))
 transport_allowance = float(input("Transport allowance: "))
