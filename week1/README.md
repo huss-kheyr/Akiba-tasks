@@ -15,7 +15,7 @@ Week: 1
  Exam Result Report
  Currency Exchange
  BMI
-
+ Student Profile 
 # What I Learned
 This week I learned the fundamentals of Python programming.
 I practiced variables, data types, input, output, arithmetic
