@@ -1,17 +1,3 @@
-"""""
-TASK 5 — Ethiopian Shopping Receipt
-Goal
-Practice variables, quantities, arithmetic, and formatted output.
-Create a simple shopping receipt.
-Ask for:
-Customer name
-Product name
-Price
-Quantity
-Calculate the total price.
-Display a receipt.
-"""
-
 customer_name = input("customer: ")
 product_name = input("product_name: ")
 price = float(input("Price: "))
