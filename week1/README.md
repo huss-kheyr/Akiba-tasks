@@ -5,19 +5,20 @@ Bootcamp: AKIBA
 Week: 1
 
 ### Completed Tasks
-- Personal Introduction,
- Student ID Card,
- Rectangle Workshop,
- Temperature Station,
- Shopping Receipt,
- Employee Payslip,
- Travel Planner,
- Exam Result Report,
- Currency Exchange and
- BMI
- *italic* Student Profile 
-
+- Personal Introduction
+- Student ID Card
+- Rectangle Workshop
+- Temperature Station
+- Shopping Receipt
+- Employee Payslip
+- Travel Planner
+- Exam Result Report
+- Currency Exchange 
+- BMI
  
+ * Student Profile *
+
+
 ## What I Learned
 This week I learned the fundamentals of Python programming.
 I practiced variables, data types, input, output, arithmetic
