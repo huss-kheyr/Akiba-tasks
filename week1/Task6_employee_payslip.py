@@ -1,31 +1,3 @@
-"""Practice working with multiple related values.
-Create a simple employee payslip.
-Ask for:
-Employee name
-Basic salary
-Transport allowance
-Food allowance
-Calculate:
-Gross Salary =
-Basic Salary + Transport Allowance + Food Allowance
-
-Display a professional payslip.
-Example
-========================================
-             EMPLOYEE PAYSLIP
-========================================
-
-Employee: Ahmed Ali
-
-Basic Salary:          12,000 ETB
-Transport Allowance:    2,000 ETB
-Food Allowance:         1,500 ETB
-----------------------------------------
-Gross Salary:          15,500 ETB
-========================================
-
-"""
-    
 employee_name = input("Employee name: ")
 basic_salary = float(input("Basic salary: "))
 transport_allowance = float(input("Transport allowance: "))
