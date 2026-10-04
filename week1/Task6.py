@@ -44,7 +44,7 @@ print(f"{'Basic Salary:':<16} {basic_salary:>10.2f}")
 print(f"{'Transport allowance:':<16} {transport_allowance:>10.2f}")
 print(f"{'Food allowance:':<16} {food_allowance:>10.2f}")
 print("-" * width)
-print(f"{'Gross salary:'}: {gross_salary:>10.2f}")
+print(f"{'Gross salary(ETB):'}: {gross_salary:>10.2f}")
 print("=" * 60)
 
 
