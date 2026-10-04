@@ -20,6 +20,7 @@ quantity = int(input("Quantity: "))
 total_price = price * quantity
 width = 40
 
+print("=" * width)
 print("Receipt".center(width))
 print("=" * width)
 print(f"Customer: {customer_name}")
