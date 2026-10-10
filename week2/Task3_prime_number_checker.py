@@ -16,10 +16,10 @@ if number < 2:
     print("The number is not prime")
 else:
     is_prime = True    
-for i in range(2, int(number ** 0.5) + 1):
-    if number % i == 0:
-        is_prime = False
-        break
+    for i in range(2, int(number ** 0.5) + 1):
+        if number % i == 0:
+            is_prime = False
+            break
     
     if is_prime :
         print("The number is prime")
