@@ -1,13 +1,12 @@
-num = int(input("Number: "))
-
-def add_digits(num):
+def add_digits(number):
     total = 0
-    num = abs(num)
-    while num > 0:
-        total += num % 10
-        num //= 10
+    number = abs(number)
+    while number > 0:
+        total += number % 10
+        number //= 10
     
     return total
 
-print(f"The total is {add_digits(num)}")
+number = int(input("Number: "))
+print(f"The total is {add_digits(number)}")
     
